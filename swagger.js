@@ -6,7 +6,7 @@ const doc = {
     description: "Users API",
   },
   // host: "localhost:2026",
-  host: "cse341-week3-personal-project.onrender.com",
+  host: "cse341-team-three-weeks-project.onrender.com",
   schemes: ["https"],
 };
 

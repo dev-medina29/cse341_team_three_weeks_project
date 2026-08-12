@@ -5,7 +5,7 @@
     "description": "Users API",
     "version": "1.0.0"
   },
-  "host": "cse341-week3-personal-project.onrender.com",
+  "host": "cse341-team-three-weeks-project.onrender.com",
   "basePath": "/",
   "schemes": ["https"],
   "paths": {
